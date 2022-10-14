@@ -10,4 +10,6 @@
 testepedromendonca/
 testepedromendonca/blob/output/github-contribution-grid-snake.svg)
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=testepedromendonca&repo=testepedromendonca&theme=react)](https://github.com/testepedromendonca/testepedromendonca)
+<div>  
+  ![Snake animation](https://github.com/testepedromendonca/testepedromendonca/blob/output/github-contribution-grid-snake.svg)
+  </div>
